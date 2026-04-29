@@ -1,7 +1,10 @@
-<img width="434" height="1117" alt="LuminaSkin 3- Research Prototype" src="https://github.com/user-attachments/assets/5c348f06-9e5f-4f48-a0a0-840d068833d4" />
-# LuminaSkin AI | Video Portfolio & UI Prototype
+<img width="235" height="500" alt="Screenshot 2026-04-27 235634" src="https://github.com/user-attachments/assets/701bff5e-f74c-4dde-9549-926c61601baf" />
+<img width="228" height="232" alt="Screenshot 2026-04-27 235613" src="https://github.com/user-attachments/assets/00b45b73-3ad0-47d5-b47a-a0f8147de97b" />
+<img width="635" height="492" alt="Screenshot 2026-04-28 212638" src="https://github.com/user-attachments/assets/9e9dc981-ee98-4cb7-b95c-06abdcfee771" />
 
-LuminaSkin is a concept project exploring the intersection of **Computer Vision** and **Dermatological Accessibility**. This web-based prototype serves as a visual gallery to demonstrate AI-driven skincare analysis and augmented reality (AR) skin-texture mapping.
+# Lumaly — Wellness-Tech & UI/UX Journey.
+Lumaly<img width="226" height="524" alt="Screenshot 2026-04-29 155809" src="https://github.com/user-attachments/assets/4421709a-1532-43ec-8db2-b651bc5cdd1f" />
+ is a concept project exploring the intersection of **Computer Vision** and **Dermatological Accessibility**. This web-based prototype serves as a visual gallery to demonstrate AI-driven skincare analysis and augmented reality (AR) skin-texture mapping.
 
 ## 🚀 Project Overview
 This project was developed to practice frontend implementation of high-fidelity UI/UX concepts. It focuses on presenting complex AI data (clinical analysis and texture mapping) through a minimalist, user-centric interface.
